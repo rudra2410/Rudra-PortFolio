@@ -1,0 +1,72 @@
+[
+  {
+    "name": "E-Mart - React Website",
+    "desc": "Revolutionizing your online presence with seamless interactivity.A cutting-edge web application built with React.js and Tailwind CSS.",
+    "image": "Project1",
+    "category": "Web",
+    "links": {
+      "view": "https://newsmarts.netlify.app/",
+      "code": "https://github.com/rudra2410/Rudra-PortFolio"
+    }
+  },
+  {
+    "name": "HealthLife - React Website ",
+    "desc": "I Create web application built with React.js and Tailwind CSS, offering a seamless, interactive user experience",
+    "image": "Project2",
+    "category": "Web",
+    "links": {
+      "view": "https://healthes.netlify.app/",
+      "code": "https://github.com/rudra2410/Health_Product"
+    }
+  },
+  {
+    "name": "Sendbox",
+    "desc": "This website create in html,css and javascript.this is owsome Web design.",
+    "image": "Project3",
+    "category": "Web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/rudra2410/sandbox"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "Web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/rudra2410/React-Projects-main/tree/main/React-Projects"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "Web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/rudra2410/JavaScript-Projects/tree/main/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "Portfolio",
+    "category": "Web",
+    "links": {
+      "view": "https://rudra-portfolio-flame.vercel.app/",
+      "code": "https://github.com/rudra2410/Rudra-PortFolio"
+    }
+  },
+  {
+    "name": "Tailwind Project",
+    "desc": "I Create Awsome Component In Tailwind Css",
+    "image": "tailwindcss",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/rudra2410/TailwindCss/tree/main"
+    }
+  }
+]
